@@ -1,6 +1,6 @@
-Footcap - Find your footware
+Charismatic - Find your footware
 
-alt = Footcap logo
+alt = Charismatic logo
 
 aria-label = Open Menu
 <ion-icon name="menu-outline"></ion-icon>
